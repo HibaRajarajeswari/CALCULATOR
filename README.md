@@ -165,7 +165,8 @@ protected void onCreate(Bundle savedInstanceState) {
 ## OUTPUT:
 ```
 
-![image](https://github.com/HibaRajarajeswari/CALCULATOR/assets/129970809/86f1872d-7d03-419b-96f9-b9d0c85f2cdf)
+![WhatsApp Image 2023-10-28 at 16 20 21_1d653ba9](https://github.com/HibaRajarajeswari/CALCULATOR/assets/129970809/11b923af-0d12-48e0-a24b-781f15ad64a3)
+
 
 
 
