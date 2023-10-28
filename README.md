@@ -165,6 +165,8 @@ protected void onCreate(Bundle savedInstanceState) {
 ## OUTPUT:
 ```
 
+![image](https://github.com/HibaRajarajeswari/CALCULATOR/assets/129970809/32de39f4-287f-427f-9efc-1a4a4b1a1795)
+
 
 
 
