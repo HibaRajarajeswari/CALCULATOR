@@ -164,17 +164,7 @@ protected void onCreate(Bundle savedInstanceState) {
 ```
 ## OUTPUT:
 ```
-
-![image](https://github.com/HibaRajarajeswari/CALCULATOR/assets/129970809/c1042ddd-7ee1-4cc1-925d-40f5c9284bc0)
-
-![image](https://github.com/HibaRajarajeswari/CALCULATOR/assets/129970809/8d53a003-e6a8-4718-9ac3-745873af2b5a)
-
-![image](https://github.com/HibaRajarajeswari/CALCULATOR/assets/129970809/0f7b2de6-600f-4740-b9eb-168efe04d26a)
-
-![image](https://github.com/HibaRajarajeswari/CALCULATOR/assets/129970809/a562d77d-1b52-4db1-b169-d83f8f0b28f8)
-
-![image](https://github.com/HibaRajarajeswari/CALCULATOR/assets/129970809/70406b3c-09b6-4f08-8a8d-297d0d179df5)
-
+https://user-images.githubusercontent.com/114135005/243905017-8f5c9196-6457-43f8-8ef2-cb726125718f.png
 ```
 ## RESULT:
 Thus a Simple Android Application develop a program to create simple calculator in Android Studio is developed and executed successfully.
