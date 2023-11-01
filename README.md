@@ -1,4 +1,4 @@
-## Ex.No:9 Develop a simple calculator using android studio.
+# Ex.No:9 Develop a simple calculator using android studio.
 ## AIM:
 To develop a program to develop a simple calculator in Android Studio.
 ## EQUIPMENTS REQUIRED:
@@ -163,16 +163,12 @@ protected void onCreate(Bundle savedInstanceState) {
 }
 ```
 ## OUTPUT:
-```
+![image](https://github.com/HibaRajarajeswari/CALCULATOR/assets/129970809/8babb528-718c-4d61-898d-08e586b7902e)
+![image](https://github.com/HibaRajarajeswari/CALCULATOR/assets/129970809/95f1beba-90c4-4971-b5f9-b8584bcf6a7f)
+![image](https://github.com/HibaRajarajeswari/CALCULATOR/assets/129970809/91b72c9f-f634-4e57-801d-6aa294eea5ff)
+![image](https://github.com/HibaRajarajeswari/CALCULATOR/assets/129970809/f50721a0-c819-40e3-a8ed-92fa2fcd7bb1)
+![image](https://github.com/HibaRajarajeswari/CALCULATOR/assets/129970809/b7bc7d9a-ba2d-4017-af52-b257100aeef0)
 
-
-
-
-
-
-
-
-```
 ## RESULT:
 Thus a Simple Android Application develop a program to create simple calculator in Android Studio is developed and executed successfully.
 
